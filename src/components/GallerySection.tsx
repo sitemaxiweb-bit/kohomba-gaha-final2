@@ -7,6 +7,11 @@ const GallerySection = () => {
 
   const galleryImages = [
     {
+      url: '/IMG-20250428-WA0004 copy copy.jpg',
+      title: 'Property Exterior',
+      description: 'Beautiful exterior view of Kohomba Gaha Residencies'
+    },
+    {
       url: '/room-2 copy copy.jpg',
       title: 'Second Bedroom',
       description: 'Stylish bedroom with teal headboard and ocean artwork'
