@@ -42,7 +42,7 @@ const GallerySection = () => {
       description: 'Outdoor dining space with garden views'
     },
     {
-      url: '/Chilling_Area.jpg',
+      url: '/20250404_073514.jpg',
       title: 'Chilling Area',
       description: 'Relaxing outdoor space with comfortable seating and garden views'
     },
