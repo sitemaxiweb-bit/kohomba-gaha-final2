@@ -16,7 +16,7 @@ const HeroSection: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(/ChatGPT%20Image%20Aug%2020,%202025,%2003_42_17%20PM%20copy.png)'
+          backgroundImage: 'url(/kohomba-gaha-residencies-exterior.png)'
         }}
         role="img"
         aria-label="Luxury home exterior in Colombo 7"

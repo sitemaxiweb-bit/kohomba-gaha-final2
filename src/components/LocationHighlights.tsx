@@ -112,7 +112,7 @@ const LocationHighlights: React.FC = () => {
           <div className="space-y-8">
             <div className="relative">
               <img 
-                src="/colombo-7 copy.jpg" 
+                src="/colombo-7-neighborhood.jpg" 
                 alt="Colombo 7 Location"
                 className="w-full h-80 object-cover rounded-2xl shadow-lg"
                 loading="lazy"

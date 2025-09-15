@@ -169,7 +169,7 @@ const BookingPage: React.FC = () => {
               <div className="bg-white p-8 rounded-2xl shadow-lg border border-neutral-100 sticky top-8">
                 <div className="mb-6">
                   <img 
-                    src="/ChatGPT%20Image%20Aug%2020,%202025,%2003_42_17%20PM%20copy.png"
+                    src="/kohomba-gaha-residencies-exterior.png"
                     alt="Kohomba Gaha Residencies"
                     className="w-full h-48 object-cover rounded-xl mb-4"
                   />

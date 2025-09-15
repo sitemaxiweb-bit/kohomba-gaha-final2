@@ -7,7 +7,7 @@ const GallerySection = () => {
 
   const galleryImages = [
     {
-      url: '/IMG-20250428-WA0004 copy copy.jpg',
+      url: '/kohomba-gaha-residencies-front-view.jpg',
       title: 'Property Exterior',
       description: 'Beautiful exterior view of Kohomba Gaha Residencies'
     },
@@ -37,12 +37,12 @@ const GallerySection = () => {
       description: 'Modern kitchen with premium appliances and sleek design'
     },
     {
-      url: '/ChatGPT%20Image%20Aug%2020,%202025,%2003_49_07%20PM.png',
+      url: '/kohomba-gaha-dining-area.png',
       title: 'Dining Area',
       description: 'Outdoor dining space with garden views'
     },
     {
-      url: '/20250404_073514.jpg',
+      url: '/kohomba-gaha-chilling-area.jpg',
       title: 'Chilling Area',
       description: 'Relaxing outdoor space with comfortable seating and garden views'
     },
