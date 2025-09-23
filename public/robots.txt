@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://kohombagaha.com/sitemap.xml
+Sitemap: https://kohombagaharesidencies.com/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
